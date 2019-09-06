@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center"><strong>A Simple PWA to Set Golas & Submit What You Do Throughout the Day</strong></div>
+<div align="center"><strong>A Web Application to Set Goals, Log What You Do Throughout the Day and Analyze Where and How You Have Spent Time!</strong></div>
 
 <br />
 
