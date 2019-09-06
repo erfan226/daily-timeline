@@ -20,8 +20,8 @@
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="#" width="80px;" alt="Erfan Akhavan"/><br /><sub><b>Erfan Akhavan</b></sub></a></td>
-    <td align="center"><a href="#"><img src="#" width="80px;" alt="Erfan Miahi"/><br /><sub><b>Erfan Miahi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/erfan226"><img src="https://avatars3.githubusercontent.com/u/17782938?s=460&v=4" width="80px;" alt="Erfan Akhavan"/><br /><sub><b>Erfan Akhavan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/erfanMhi"><img src="https://avatars0.githubusercontent.com/u/25865840?s=88&v=4" width="80px;" alt="Erfan Miahi"/><br /><sub><b>Erfan Miahi</b></sub></a></td>
   </tr>
 </table>
 
